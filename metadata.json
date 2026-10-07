@@ -1,0 +1,6 @@
+{
+  "name": "SG AirWatch - Real-Time Singapore PSI & PM2.5 Air Quality Monitor",
+  "description": "Live Singapore PSI and PM2.5 air quality tracker powered by NEA real-time open data API with location-based readings, dynamic health advisories, interactive charts, and atmospheric weather effects.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
